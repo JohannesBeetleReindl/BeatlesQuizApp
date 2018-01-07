@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Beatles Quiz App</string>
+
+    //First Question and answering alternative
+    //Question 1, Beatles albums yes or no
+    <string name="question_one">Which of the below are  Beatles albums?</string>
+    //Correct answer 1/1, no Beatles album
+    <string name="answer1_albums" translatable="false">Let it bleed</string>
+    //Correct answer 2/1, no Beatles album
+    <string name="answer2_albums" translatable="false">Let love rule</string>
+    //Incorrect answer 3/1, a Beatles album
+    <string name="answer3_albums" translatable="false">White Album</string>
+    //Incorrect answer 4/1, a Beatles Album
+    <string name="answer4_albums" translatable="false">Rubber Soul</string>
+
+    //Second question
+    <string name="question_two">What was the name of the Beatles` first drummer?</string>
+    //Hint for question two
+    <string name="firstname_space_surname">First name, space, surname</string>
+
+    //Third question and answers
+    <string name="question_three">In which German town they played a lot in their early years?</string>
+    //Incorrect answer 1, Munich
+    <string name="answer1_town">Munich</string>
+    //Incorrect answer 2, Berlin
+    <string name="answer2_town">Berlin</string>
+    //Correct answer 1, Hamburg
+    <string name="answer3_town">Hamburg</string>
+
+    //Fourth question and answers
+    <string name="question_four">Who  was involved in the Beatles´ career?</string>
+    //Correct Answer 1, Brian Eno
+    <string name="answer1_team" translatable="false">Brian Eno</string>
+    //Incorrect answer 2, Brian Epstein
+    <string name="answer2_team" translatable="false">Brian Epstein</string>
+    //Correct answer 3, Logham
+    <string name="answer3_team" translatable="false">Andrew L. Oldham</string>
+    //Incorrect answer 4, Martin
+    <string name="answer4_team" translatable="false">George Martin</string>
+
+    //Fifth question and hint
+    <string name="question_five">In which year exactly the Beatles finally split up?</string>
+    //answer year
+    <string name="year">enter year here (JJJJ)</string>
+
+    //Sixth question and answers
+    <string name="question_six">1966 J. Lennon made the controversal remark: "We are more popular than..."</string>
+    //Incorrect answer 1, the Pope
+    <string name="answer1_quote">...the Pope</string>
+    //Incorrect answer 2, the Rolling Stones
+    <string name="answer2_quote">...the Rolling Stones</string>
+    //Correct answer 3, Jesus
+    <string name="answer3_quote">...Jesus</string>
+
+    <string name="score_button">View Score</string>
+
+    //toast for low points
+    <string name="more_into_Bieber">Alright, you seem to be more into Justin Bieber. You gained </string>
+    //part2 of toast message
+    <string name="out_of_points"> out of 8 points.</string>
+    //toast for not so low points
+    <string name="ok_for_20_and_younger">If you´re not older than 20 the result is fine. You gained </string>
+    //toast for good result
+    <string name="most_answers_correct">Wow! Nearly everythings´s correct. Well done! </string>
+    //toast for full points
+    <string name="Awesaome._Full_points.">Awesome! The Fab Four would be proud of you! </string>
+
+
+</resources>

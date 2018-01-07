@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beatles Quiz App</string>
+    <string name="question_one">Welche dieser Alben sind von den Beatles?</string>
+    <string name="question_two">Wie hieß der erste Schlagzeuger der Beatles?</string>
+    <string name="firstname_space_surname">Vorname, Leertaste, Nachnahme</string>
+    <string name="question_three">In welcher deutschen Stadt spielten sie in ihren frühen Jahren?</string>
+    <string name="answer1_town">München</string>
+    <string name="answer2_town">Berlin</string>
+    <string name="answer3_town">Hamburg</string>
+    <string name="question_four">Wer war an der Karriere der Beatles beteiligt?</string>
+    <string name="question_five">In welchem Jahr trennten sich die Beatles?</string>
+    <string name="year">hier die Jahreszahl eingeben (JJJJ)</string>
+    <string name="question_six">1966 machte J. Lennon die kontroverse Aussage. Wir sind bekannter als...</string>
+    <string name="answer1_quote">...der Papst</string>
+    <string name="answer2_quote">...die Rolling Stones</string>
+    <string name="answer3_quote">...Jesus</string>
+    <string name="score_button">Punkte zeigen</string>
+    <string name="more_into_Bieber">OK, du kennst dich wohl eher mit Justin Bieber aus. Du hast</string>
+    <string name="out_of_points">von 8 Punkten.</string>
+    <string name="ok_for_20_and_younger">Solltest du nicht älter als 20 sein, ist das Ergebnis in Ordnung.</string>
+    <string name="most_answers_correct">Hey! Fast alles richtig. Gut gemacht!</string>
+    <string name="Awesaome._Full_points.">Hammer! Die Pilzköpfe wären stolz auf dich!</string>
+</resources>
